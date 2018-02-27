@@ -4,7 +4,7 @@ require 'json'
 require 'faraday'
 require 'faraday_middleware'
 
-
+#リクルートAPI
 URL_Recruit = 'https://api.a3rt.recruit-tech.co.jp/talk/v1/smalltalk'
 KEY_Recruit = 'mkxumAgVxDuMXYF6EyHPKyPUrLGD2Cun'
 
